@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tour-and-Travel/static/css/main.decdb0db.css",
+    "main.js": "/Tour-and-Travel/static/js/main.ef66daff.js",
+    "index.html": "/Tour-and-Travel/index.html",
+    "main.decdb0db.css.map": "/Tour-and-Travel/static/css/main.decdb0db.css.map",
+    "main.ef66daff.js.map": "/Tour-and-Travel/static/js/main.ef66daff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.decdb0db.css",
+    "static/js/main.ef66daff.js"
+  ]
+}
